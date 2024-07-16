@@ -12,7 +12,7 @@ AI模型訓練
 資料集詞雲圖:
 統計關鍵字詞出現頻率，顯示真評論與假評論中，關鍵字詞的出現占比
 ![image](https://github.com/user-attachments/assets/b04ab336-5402-4ca7-91ee-3737069a4de7)
-![image](https://github.com/user-attachments/assets/8b186668-f3e1-4fb4-85e7-d33493114a92)
+![image](https://github.com/user-attachments/assets/4dba47e1-8a19-46b7-b391-e5937bb845e7)
 
 關鍵字詞權重分數:
 ![image](https://github.com/user-attachments/assets/370895b4-5e8f-4517-9454-6e3bf29b08ec)
