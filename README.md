@@ -4,7 +4,7 @@ AI模型訓練
 
 目的:
 增加模型的可解釋力
-![image](https://github.com/user-attachments/assets/fe206cc1-0627-4865-bdc3-5eb2ea081580)
+![image](https://github.com/user-attachments/assets/a29ccdfe-9a6b-4248-9063-8cb88fac80ba)
 
 模型架構:
 ![image](https://github.com/user-attachments/assets/70117d31-30ac-4ec7-85a9-4af90e2ec20d)
